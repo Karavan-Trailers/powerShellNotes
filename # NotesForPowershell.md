@@ -26,3 +26,5 @@ Get-ChildItem -Path $folderPath -File | ForEach-Object {
         Write-Host "Both strings found in file: $filePath"
     }
 }
+
+(PowerShell playlist)[https://www.youtube.com/playlist?list=PLvmwu6WYeFdgw8LJ2VUhveL86qEtY7TXT]
